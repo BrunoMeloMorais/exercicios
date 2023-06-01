@@ -1,0 +1,10 @@
+body{
+    background: green;
+}
+
+p{
+    color: white;
+}
+p#exemplo{
+    color: rgb(145, 138, 247);
+}
