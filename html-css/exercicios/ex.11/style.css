@@ -1,0 +1,23 @@
+
+
+body{
+    background-image: linear-gradient(to right, rgb(141, 141, 226), rgb(85, 85, 233));
+}
+main{
+    width: 500px;
+    background: white;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px; /* raio da borda */
+    box-shadow: 3px 3px 3px black; /*sombra na caixa */
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: justify;
+    color: black;
+}
